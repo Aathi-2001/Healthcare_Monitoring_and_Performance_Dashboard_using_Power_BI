@@ -1,0 +1,2 @@
+# Healthcare_Monitoring_and_Performance_Dashboard_using_Power_BI
+ Developed a Power BI dashboard, "Healthcare Monitoring and Performance Dashboard", offering insights into cost, coverage, diagnosis, and gender trends. Spanning five pages, it features navigation buttons, advanced filters, dynamic visuals, DAX-calculated fields, and conditional formatting to analyze financial metrics, hospitals, and doctors.
